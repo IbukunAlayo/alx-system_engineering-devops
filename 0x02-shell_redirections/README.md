@@ -1,1 +1,1 @@
-script that prints “Hello, World”
+Task 0. Hello World
